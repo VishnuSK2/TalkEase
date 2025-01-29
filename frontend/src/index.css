@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Righteous&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+body{
+    background: linear-gradient(to right, #E6E6FA, #D4F1F4);
+}
